@@ -24,7 +24,7 @@
       <div class="col-lg-4">
         <Cards
           title="Website"
-          url="#"
+          url="https://suryamsj.netlify.app/"
           description="Lihat project saya"
           image={website}
         />
@@ -32,7 +32,7 @@
       <div class="col-lg-4">
         <Cards
           title="Github"
-          url="#"
+          url="https://github.com/suryamsj"
           description="@suryamsj | Project open source"
           image={github}
         />
@@ -40,7 +40,7 @@
       <div class="col-lg-4">
         <Cards
           title="Instagram"
-          url="#"
+          url="https://www.instagram.com/suryaaamsj/"
           description="@suryaaamsj"
           image={instagram}
         />
@@ -48,7 +48,7 @@
       <div class="col-lg-4">
         <Cards
           title="Linkedin"
-          url="#"
+          url="https://www.linkedin.com/in/suryamsj/"
           description="Lihat profile saya"
           image={linkedin}
         />
@@ -56,7 +56,7 @@
       <div class="col-lg-4">
         <Cards
           title="Youtube"
-          url="#"
+          url="https://www.youtube.com/channel/UCyLXAx2zineeQ9VzgqjFqJA"
           description="Saya juga sering membuat vidio tutorial"
           image={youtube}
         />
@@ -64,7 +64,7 @@
       <div class="col-lg-4">
         <Cards
           title="Telegram"
-          url="#"
+          url="https://telegram.me/suryaaamsj"
           description="@suryaaamsj | Chat dengan saya"
           image={telegram}
         />
@@ -72,7 +72,7 @@
       <div class="col-lg-4">
         <Cards
           title="Trakteer"
-          url="#"
+          url="https://trakteer.id/suryamsj"
           description="Trakteer saya sebuah Teh Online"
           image={trakteer}
         />
