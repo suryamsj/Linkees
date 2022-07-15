@@ -64,8 +64,8 @@
       <div class="col-lg-4">
         <Cards
           title="Telegram"
-          url="https://telegram.me/suryaaamsj"
-          description="@suryaaamsj | Chat dengan saya"
+          url="https://telegram.me/ciiciociii"
+          description="@ciiciociii | Chat dengan saya"
           image={telegram}
         />
       </div>
