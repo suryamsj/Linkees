@@ -1,0 +1,47 @@
+{
+    "name": "Muhammad Surya J",
+    "status": "sit dolor amet ipsum",
+    "link": [{
+            "title": "Website",
+            "url": "https://suryamsj.netlify.app/",
+            "description": "Lihat project saya",
+            "image": "https://i.ibb.co/k5z7fVg/website.png"
+        },
+        {
+            "title": "Github",
+            "url": "https://github.com/suryamsj",
+            "description": "@suryamsj | Project open source",
+            "image": "https://i.ibb.co/kQz4xkz/github.png"
+        },
+        {
+            "title": "Instagram",
+            "url": "https://www.instagram.com/suryaaamsj/",
+            "description": "@suryaaamsj",
+            "image": "https://i.ibb.co/JR1kfgw/instagram.png"
+        },
+        {
+            "title": "Linkedin",
+            "url": "https://www.linkedin.com/in/suryamsj/",
+            "description": "Lihat profile saya",
+            "image": "https://i.ibb.co/8dRrD5X/linkedin.jpg"
+        },
+        {
+            "title": "Youtube",
+            "url": "https://www.youtube.com/channel/UCyLXAx2zineeQ9VzgqjFqJA",
+            "description": "Saya juga sering membuat vidio tutorial",
+            "image": "https://i.ibb.co/N112pXn/youtube.jpg"
+        },
+        {
+            "title": "Telegram",
+            "url": "https://telegram.me/ciiciociii",
+            "description": "@ciiciociii | Chat dengan saya",
+            "image": "https://i.ibb.co/Ns3397V/telegram.png"
+        },
+        {
+            "title": "Trakteer",
+            "url": "https://trakteer.id/suryamsj",
+            "description": "Trakteer saya sebuah Teh Online",
+            "image": "https://i.ibb.co/Vtb3WGD/trakteer.png"
+        }
+    ]
+}
