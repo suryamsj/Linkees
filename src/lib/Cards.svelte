@@ -1,6 +1,4 @@
 <script>
-  // @ts-nocheck
-
   export let title, description, url, image;
 </script>
 

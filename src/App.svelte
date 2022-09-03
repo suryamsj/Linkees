@@ -1,13 +1,11 @@
 <script>
-  // Image | If image link is broken, you can upload this image instead of the broken image link in the source.
-  import profile from "./assets/profile.jpg";
-  // import website from "./assets/cover/website.png";
-  // import github from "./assets/cover/github.png";
-  // import linkedin from "./assets/cover/linkedin.jpg";
-  // import instagram from "./assets/cover/instagram.png";
-  // import youtube from "./assets/cover/youtube.jpg";
-  // import telegram from "./assets/cover/telegram.png";
-  // import trakteer from "./assets/cover/trakteer.png";
+  /*
+   * If the image link is broken, you can upload the image in assets folder
+   * Edit your link in link.json
+   */
+
+  // Photo
+  import photo from "./assets/profile.jpg";
 
   // Component
   import Cards from "./lib/Cards.svelte";
@@ -26,7 +24,7 @@
 <section class="py-5">
   <div class="container">
     <div class="row text-center">
-      <img class="profile-img" src={profile} alt="Foto Profile" />
+      <img class="profile-img" src={photo} alt="Foto Profile" />
       <h1 class="title">{Profiles.nama}</h1>
       <p class="sub-title">{Profiles.status}</p>
     </div>
